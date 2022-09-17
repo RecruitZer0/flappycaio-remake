@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1663378008,
+	"version": 1663379870,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,7 +11,9 @@
 		"images/espinhos-sheet1.png",
 		"images/espinhos-sheet2.png",
 		"images/espinhos-sheet3.png",
+		"images/espinhos-sheet4.png",
 		"images/stun-sheet0.png",
-		"images/clonesmoke.png"
+		"images/clonesmoke.png",
+		"images/versionnum.png"
 	]
 }
