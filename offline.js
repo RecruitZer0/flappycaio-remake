@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1663425574,
+	"version": 1663457640,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,16 @@
 		"images/espinhos-sheet7.png",
 		"images/stun-sheet0.png",
 		"images/versionnum.png",
+		"media/gameovervoice.m4a",
+		"media/gameovervoice.ogg",
+		"media/stunvoice.m4a",
+		"media/stunvoice.ogg",
+		"media/wavevoice.m4a",
+		"media/wavevoice.ogg",
+		"media/clonevoice.m4a",
+		"media/clonevoice.ogg",
+		"media/bgmusic.m4a",
+		"media/bgmusic.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
